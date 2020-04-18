@@ -1,0 +1,3 @@
+//gradle 阿里云配置
+maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+maven{ url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'}
